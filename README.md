@@ -11,6 +11,7 @@ Collection of articles and videos
 
 ## General
 [Awesome](https://github.com/sindresorhus/awesome) - A general overview of all sorts of things
+[Summery of Clean Code](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29) - A summary of Clean Code
 
 ## Architecture
 [Vertical Sliced Architecture](https://jimmybogard.com/vertical-slice-architecture/) - Vertical Sliced Architecture by Jimmy Bogaard
