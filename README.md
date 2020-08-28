@@ -6,6 +6,7 @@ Collection of articles and videos
 
 - [General](#general)
 - [Architecture](#architecture)
+- [Domain](#domain)
 - [Twitter Handles](#twitter-handles)
 
 ## General
@@ -17,6 +18,9 @@ Collection of articles and videos
 [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html#:~:text=The%20fundamental%20idea%20of%20Event,as%20the%20application%20state%20itself) - Event Sourcing
 
 [Prcinciples of Miroservices](https://www.youtube.com/watch?v=PFQnNFe27kU) - General best practice principles about microservices
+
+## Domain
+[Domain Driven Development](https://martinfowler.com/tags/domain%20driven%20design.html) - A general overview by Martin Fowler
 
 ## Twitter Handles
 
