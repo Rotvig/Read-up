@@ -21,6 +21,8 @@ Collection of articles and videos
 
 [Prcinciples of Miroservices](https://www.youtube.com/watch?v=PFQnNFe27kU) - General best practice principles about microservices
 
+[Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/index.html) - Great book about varius patterns for async messaging
+
 ## Domain
 [Domain Driven Development](https://martinfowler.com/tags/domain%20driven%20design.html) - A general overview by Martin Fowler
 
